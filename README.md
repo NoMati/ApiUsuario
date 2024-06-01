@@ -1,2 +1,2 @@
 # ApiUsuario
-CRUD desarrollado con .NET Core 6 Web API
+CRUD desarrollado con .NET Core 6 Web API + MySQL
