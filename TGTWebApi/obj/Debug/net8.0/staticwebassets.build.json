@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Rmg3ZrYo2lPpWwSWjsctILTl2XkhY1QH/XIdegMSvGw=",
+  "Source": "TGTWebApi",
+  "BasePath": "_content/TGTWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
